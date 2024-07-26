@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LumosLK
+- 👀 I’m interested in building solutions
+- 🌱 I’m currently learning assembly
