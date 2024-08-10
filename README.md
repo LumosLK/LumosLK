@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @LumosLK
-- 👀 I’m interested in building solutions
-- 🌱 I’m currently learning assembly
+LUMOS is under active development. Some physical hardware configurations may not work correctly.
